@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Databases>
+	<Database name="S1" vendor="mysql">
+		<Driver name="com.mysql.jdbc.Driver" />
+		<Url host="localhost" port="3306" databaseName="crmp" user="root"
+			password="1q2w3e4r5t" characterEncoding="gb2312" autoReconnect="true" />
+	</Database>
+	<Database name="T1" vendor="mysql">
+		<Driver name="com.mysql.jdbc.Driver" />
+		<Url host="localhost" port="3306" databaseName="crmp2" user="root"
+			password="1q2w3e4r5t" characterEncoding="gb2312" autoReconnect="true" />
+	</Database>
+</Databases>

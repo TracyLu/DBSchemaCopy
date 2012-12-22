@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MixingPlants>
+	<MixingPlant id="#1" sourceDbName="S1" targetDbName="T1" />
+	<MixingPlant id="#2" sourceDbName="S2" targetDbName="T2" />
+</MixingPlants>
